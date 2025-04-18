@@ -1,1 +1,0 @@
-/home/myna/Rusty/piscine-rust-gitea/commits_stats/target/debug/commits_stats: /home/myna/Rusty/piscine-rust-gitea/commits_stats/src/lib.rs /home/myna/Rusty/piscine-rust-gitea/commits_stats/src/main.rs

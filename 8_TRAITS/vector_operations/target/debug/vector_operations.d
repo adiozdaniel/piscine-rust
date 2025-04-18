@@ -1,1 +1,0 @@
-/home/myna/Rusty/piscine-rust-gitea/vector_operations/target/debug/vector_operations: /home/myna/Rusty/piscine-rust-gitea/vector_operations/src/lib.rs /home/myna/Rusty/piscine-rust-gitea/vector_operations/src/main.rs
