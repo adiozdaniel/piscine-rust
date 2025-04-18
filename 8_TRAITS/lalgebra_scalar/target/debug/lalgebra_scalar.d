@@ -1,0 +1,1 @@
+/home/myna/Rusty/piscine-rust-gitea/lalgebra_scalar/target/debug/lalgebra_scalar: /home/myna/Rusty/piscine-rust-gitea/lalgebra_scalar/src/lib.rs /home/myna/Rusty/piscine-rust-gitea/lalgebra_scalar/src/main.rs

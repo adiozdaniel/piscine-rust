@@ -1,0 +1,1 @@
+/home/myna/Rusty/piscine-rust-gitea/lalgebra_vector/target/debug/liblalgebra_vector.rlib: /home/myna/Rusty/piscine-rust-gitea/lalgebra_scalar/src/lib.rs /home/myna/Rusty/piscine-rust-gitea/lalgebra_vector/src/lib.rs

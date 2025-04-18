@@ -1,0 +1,1 @@
+/home/myna/Rusty/piscine-rust-gitea/generics_list/target/debug/generics_list: /home/myna/Rusty/piscine-rust-gitea/generics_list/src/lib.rs /home/myna/Rusty/piscine-rust-gitea/generics_list/src/main.rs
